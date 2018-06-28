@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/haray/.android/build-cache/99fe484073bb0a5a149d271aae4ab2b952573520/output/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/haray/.android/build-cache/d96020469fc7411953d73984826e4173c1b35f2d/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/haray/.android/build-cache/111eb90e356438d429cc29a6a1914b378696d0ee/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:10:9-35
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/haray/.android/build-cache/99fe484073bb0a5a149d271aae4ab2b952573520/output/AndroidManifest.xml:22:18-91
+	android:roundIcon
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.webviewdemo.MainActivity
+ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/haray/.android/build-cache/a2cfb5c04a51cb5dd43ba32a25064787adbcf873/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/haray/.android/build-cache/8067984b864ee5d708f2c9b2f8469af8f399b655/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/haray/.android/build-cache/334bb1985532f601bf4674bbdd97fa2a47fe459f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/haray/.android/build-cache/6c94f730ce8b3687f03849e6e437130a8534030f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/haray/.android/build-cache/31eacfd7622cd0580f6ca030bcfa00f4d71b5ed9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/haray/.android/build-cache/dae6ba794eccee67f29dd425331da73161727b08/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/haray/.android/build-cache/18bb91a0b7a638b25785e7c15a08672a24bd433b/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/haray/.android/build-cache/03fd789908bf89a9fd2af3ec66d283d5af0af063/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/haray/.android/build-cache/d2cda21fda316350a7c07a083d743c600a91dde0/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/haray/.android/build-cache/b9d9faba207de4f307e09a7d42e2e7eee2cff87b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/haray/.android/build-cache/439043dbf27260fdb5e9a9af47a2a6296d32db09/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/haray/.android/build-cache/9c237074e1c3186af6d474343960b03164749d67/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/haray/.android/build-cache/266eb1c26bb2521beb166fde72e1ff94ceb52048/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/haray/.android/build-cache/5d8ddee3da479262d7cbf964af9a73a193d6a1da/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/haray/.android/build-cache/2cd25766492da6220ee9048417297a337d645831/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/haray/.android/build-cache/6c9717a206b15645356dd7a06a05ae47225d1db3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/haray/.android/build-cache/480ff37ace3a7f2413e13a81bc705d9d557693e8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/haray/.android/build-cache/d5c739feffab946c57d680389dc27624ded66eda/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/haray/.android/build-cache/741572aab49e199db3b7703be06fb6a44af806fe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/haray/.android/build-cache/b0025b69cf7fb1db18a6c6616431d50808aff410/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/haray/.android/build-cache/99fe484073bb0a5a149d271aae4ab2b952573520/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/haray/.android/build-cache/1dc1f5e9bb83e157342b9d44f0c1135658b454ec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/haray/.android/build-cache/d96020469fc7411953d73984826e4173c1b35f2d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/haray/.android/build-cache/b5c1f60606e7ca0006b14d1c38d28b830c7b3d5e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/haray/.android/build-cache/111eb90e356438d429cc29a6a1914b378696d0ee/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haray/AndroidStudioProjects/WebviewDemo/app/src/main/AndroidManifest.xml

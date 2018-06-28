@@ -1,0 +1,7 @@
+#Thu Jun 28 10:14:35 ICT 2018
+base.0=/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_73def0b46eeae4301e33de83875e6fa2ef9e6cde
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b13b9ca17ac6bc7fde48d5d34b66cc9fbfc81db0/classes.dex
+base.1=/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b13b9ca17ac6bc7fde48d5d34b66cc9fbfc81db0
+file.0=/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_73def0b46eeae4301e33de83875e6fa2ef9e6cde/classes.dex

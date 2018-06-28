@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 70,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 70,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 67,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 67,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

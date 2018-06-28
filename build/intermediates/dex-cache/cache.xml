@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha3/7f23bd602124f31bda99edc5ee8a3bee209dae67/support-annotations-28.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="7f23bd602124f31bda99edc5ee8a3bee209dae67">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-28.0.0-alpha3_0173f8a9466736a5e78a5cd7c15248dced2bbe89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/1dc1f5e9bb83e157342b9d44f0c1135658b454ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7bcec3111763c89b0dd61da47b0c6b2141a3553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/b0025b69cf7fb1db18a6c6616431d50808aff410/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="440c2908c8171527c59dab969313cd5d99384689">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02f21a236f8bfc33994c28247093661fa4a08039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/111eb90e356438d429cc29a6a1914b378696d0ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a146840737e897bd8e0365dfce53c9c4c7aad1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/266eb1c26bb2521beb166fde72e1ff94ceb52048/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="83c20c43f6dd99bc8a2f650338e300b51b0322f1">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83364677d8625df89d304aade443b30b4d7287f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/8067984b864ee5d708f2c9b2f8469af8f399b655/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f01d56e9ac0093c28f83b6c84d2d8cf31a4c227a">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_419cc405d23ebee52c1da97eed721950f4155e0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/d96020469fc7411953d73984826e4173c1b35f2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b537d18c3d70135922eed311c8e6ae80d04db2ae">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2664955a8cf08f226fa93da736cbd41d71c9b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="60e4db69d43e89405784684430b557ef6b0e7a79">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_73def0b46eeae4301e33de83875e6fa2ef9e6cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha3/a037a9517c0b0bdaae96b21128534af4ba706c0c/collections-28.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="a037a9517c0b0bdaae96b21128534af4ba706c0c">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/collections-28.0.0-alpha3_041239b30dbda4108367ab0b99ce523c7b367fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b13b9ca17ac6bc7fde48d5d34b66cc9fbfc81db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/6c9717a206b15645356dd7a06a05ae47225d1db3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="1dc0edf859b7207ab1d84505a91550ad764fba08">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f556a49a6ba1795f82c9021e5e6f925575c99ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/5d8ddee3da479262d7cbf964af9a73a193d6a1da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="105953d608941a7353c7ba8bb87ffd6d15c72373">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bc2c6a7a42559733c22ef017d588d22e10e0f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/dae6ba794eccee67f29dd425331da73161727b08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b81123d49492aa92bb9aceece799f960184ffd86">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4f7bcdf172b511fdd6af8bcf4cb8e4cf98eaabc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/d5c739feffab946c57d680389dc27624ded66eda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="3421928d94dccb4ea5f5884ef994a449b1f59b94">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fb85154a840ff9240125baec0104a2f6625ee41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/741572aab49e199db3b7703be06fb6a44af806fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b323f6b6f5f5b5ec38f8076a8e773a24b556803f">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94218b62fddc0eaa7878ca52d4a228d0c25ae769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/6c94f730ce8b3687f03849e6e437130a8534030f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c9c0cef4ce809a6ee34010d54f6138d1e8d235d4">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b820461d28509e8cf9d48ff29951a74e12f47e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/b9d9faba207de4f307e09a7d42e2e7eee2cff87b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4df217130d3cae737d2e5929353b8ee028834213/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/a2cfb5c04a51cb5dd43ba32a25064787adbcf873/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="471a0e96e0fc638d9eae68aa906b0052cbe14fac">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_903b91cdf9b8627558ea10c1a02b8b5db69c7e57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/03fd789908bf89a9fd2af3ec66d283d5af0af063/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c986d6d8d8fff040f705ed9eee3cea33e6117df6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/d2cda21fda316350a7c07a083d743c600a91dde0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1969ef52ceb5b5a92942583717749d0d39c16cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/18bb91a0b7a638b25785e7c15a08672a24bd433b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="6dd3aad3f1c8ed7d03f1756788751481d5b58829">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ef88743a159dd158ce01457b685ce46b9478986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/2cd25766492da6220ee9048417297a337d645831/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="62f1ae285dbc36e987d202665e0b115cb89ad766">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5191eb201f525594e1ef000a251e9d28b01a76d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8ad84528bb52eaa5f248cd754253b4799fea5e20">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acb7f6370b9a5a166a0eae2cf6083c463dbc48d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/334bb1985532f601bf4674bbdd97fa2a47fe459f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f13389655eb804a474ffa38b106b6ebe70fbd72a">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62f420a4dd7029f93f0330356ed8fed1ad170988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/b5c1f60606e7ca0006b14d1c38d28b830c7b3d5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="adb8a75987034c4189515222e4ce7e62ef3d2679">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bebc0e766916f9fbc20f4082a0db1342ddb3d132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/439043dbf27260fdb5e9a9af47a2a6296d32db09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="30a491b00a400e48f1c5fc29a544c6ec24a200a2">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07854b887c3d3f4f833f94f27e69848a355297da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/31eacfd7622cd0580f6ca030bcfa00f4d71b5ed9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="537e2fb8aa75e9574f18123053a2c6b47cd241c3">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87fe660579e2aea85b1694dad984b11e610514bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.1_855877406f9f1e5d9856b3e7a620326a66e061e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9c42e8576eeececc26edc5c03bc793dd3f771c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/9c237074e1c3186af6d474343960b03164749d67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="fed88a0b8c6cdbc858f18a65574ea5a3f8e91f43">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1706ea19d6ea9bbcc9b76e6e3ba0469386ec7229/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/99fe484073bb0a5a149d271aae4ab2b952573520/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="28a853e2897305b41fe2bc82652a697f057cf7d8">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6197a60249b960362edbbb31b076f035b925d8b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.android/build-cache/480ff37ace3a7f2413e13a81bc705d9d557693e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="7298c47c29053c12eae9038bcd5e1ca1a4edd2a8">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac50436827c6b5872b216ce62077c08306de2f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haray/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.1_8e943059f57741aaba6c9ab63fa7d3873876c3ce/classes.dex" />
+    </item>
+
+</items>

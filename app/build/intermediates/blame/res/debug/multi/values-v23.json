@@ -1,0 +1,141 @@
+[
+    {
+        "outputFile": "/Users/haray/AndroidStudioProjects/WebviewDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 134,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 74,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 86,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1787,
+                    "endColumn": 126,
+                    "endOffset": 1909
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1914,
+                    "endColumn": 104,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 114,
+                    "endOffset": 2129
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2134,
+                    "endColumn": 106,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 112,
+                    "endOffset": 2349
+                },
+                "from": {
+                    "file": "/Users/haray/.android/build-cache/fe1c7f1b68156787a8a9731ee95fe1683b5a72c8/output/res/values-v23/values-v23.xml"
+                }
+            }
+        ]
+    }
+]
